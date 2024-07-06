@@ -1,6 +1,6 @@
 # E-commerce Retail Analysis
 
-This project is a part of the ADS-XXX course in the Applied Data Science Program at the University of San Diego. 
+This project is a part of the ADS-599 course in the Applied Data Science Program at the University of San Diego. 
 -- Project Status: Active
 
 Project Intro/Objective
