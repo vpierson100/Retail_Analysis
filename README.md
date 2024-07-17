@@ -16,10 +16,11 @@ The primary challenge in the e-commerce space is efficiently allocating resource
 ### Definition of Objectives
 The objectives of this project include:
 
-Leveraging advanced analytics and machine learning for deeper customer insights.
-Developing personalized marketing campaigns and content for enhanced engagement.
-Optimizing UX design for a seamless shopping experience.
-Implementing robust data privacy measures and ensuring the accuracy of product reviews to build consumer trust.
+• Leveraging advanced analytics and machine learning for deeper customer insights.
+• Developing personalized marketing campaigns and content for enhanced engagement.
+• Optimizing UX design for a seamless shopping experience.
+• Implementing robust data privacy measures and ensuring the accuracy of product reviews to build consumer trust.
+
 By achieving these objectives, the project aims to enhance customer satisfaction, loyalty, and profitability, while reducing operational costs and improving competitive positioning.
 
 ## Literature Review (Related Works)
